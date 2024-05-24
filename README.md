@@ -1,7 +1,7 @@
 # androidStudio-Lap3
 
 My lab assignment for IT342 course in Android Studio
-
+It is about developing a calculator to prepare for work on the Android Studio program.
 
 
 
